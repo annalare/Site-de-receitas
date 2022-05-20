@@ -1,0 +1,57 @@
+* {
+  max-width: 1440px;
+}
+#contato-cliente {
+  background-image: url(../img/contato.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 419px;
+}
+#contato-cliente h1 {
+  color: #ffff;
+  font-size: 70px;
+  font-weight: 700;
+  padding: 49px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 133px;
+  margin-top: 102px;
+  gap: 0px 15px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ffa000;
+  border-radius: 20px;
+  width: 820px;
+  height: 766px;
+  padding: 65px 37px;
+}
+form h2 {
+  color: #ffa000;
+  font-size: 40px;
+  font-weight: 700;
+  padding-bottom: 65px;
+}
+.dados {
+  height: 48px;
+  margin-bottom: 22.8px;
+  border: 1px solid #ffa000;
+  border-radius: 7px;
+}
+#mensagem {
+  border: 1px solid #ffa000;
+  border-radius: 7px;
+}
+button {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffff;
+  background: #ffc107;
+  border-radius: 50px;
+  width: 164px;
+  height: 48px;
+  border: none;
+}

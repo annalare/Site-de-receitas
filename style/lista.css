@@ -1,0 +1,39 @@
+#container-comida {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0px 75px;
+}
+.comidas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 126px;
+}
+
+.comidas img {
+  width: 345px;
+  height: 342px;
+}
+
+.comidas h3 {
+  color: black;
+  font-size: 26px;
+  font-weight: 600;
+  margin: 15px 0px;
+}
+.comidas a {
+  background-color: #176902;
+  color: #ffff;
+  font-weight: 700;
+  font-size: 24px;
+  text-decoration: none;
+  padding: 10px 43px;
+}
+h1 {
+  color: #ffa000;
+  font-size: 50px;
+  font-weight: 700;
+  margin: 104px 0px 64px 80px;
+}
