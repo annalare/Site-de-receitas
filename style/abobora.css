@@ -55,6 +55,12 @@ aside h2 {
 }
 .comidas h3 {
   margin: 12px 0px 22px 0px;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 1024px) {
