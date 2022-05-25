@@ -55,3 +55,16 @@ button {
   height: 48px;
   border: none;
 }
+#botao,
+select {
+  cursor: pointer;
+}
+#botao:hover {
+  background: #dfb846;
+}
+
+@media only screen and (max-width: 700px) {
+  #foto {
+    display: none;
+  }
+}

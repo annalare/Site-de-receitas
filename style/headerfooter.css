@@ -60,3 +60,14 @@ footer img {
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  ul {
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 450px) {
+  footer {
+    flex-direction: column;
+  }
+}
