@@ -1,6 +1,6 @@
 # Receitas OMMA
 
-Desafio da Gama Academy -
+Desafio da Gama Academy 
 
 # Sobre
 
