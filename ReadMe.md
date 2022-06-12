@@ -1,4 +1,4 @@
-# Receitas OMMA
+# Receitas OMMA 🍽️
 
 Desafio da Gama Academy 
 
